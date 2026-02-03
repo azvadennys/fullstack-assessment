@@ -1,6 +1,6 @@
 # TaskFlow - Full Stack Task Management Platform
 
-Aplikasi manajemen tugas modern yang dibangun menggunakan **Laravel 12 (Backend)** dan **Nuxt 3 + Tailwind CSS (Frontend)**. Proyek ini mendukung fitur real-time, file upload, video streaming, dan background processing.
+Aplikasi manajemen tugas modern yang dibangun menggunakan **Laravel 12 (Backend)** dan **Nuxt 4 + Tailwind CSS (Frontend)**. Proyek ini mendukung fitur real-time, file upload, video streaming, dan background processing.
 
 ## Demo Video
 
