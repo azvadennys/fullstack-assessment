@@ -2,6 +2,12 @@
 
 Aplikasi manajemen tugas modern yang dibangun menggunakan **Laravel 12 (Backend)** dan **Nuxt 3 + Tailwind CSS (Frontend)**. Proyek ini mendukung fitur real-time, file upload, video streaming, dan background processing.
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/8269f179-f2b0-4825-a2a0-d257b981d1df
+
+
 ## 📋 Prasyarat Sistem (Prerequisites)
 
 Pastikan komputer Anda sudah terinstall:
